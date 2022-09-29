@@ -1,0 +1,12 @@
+package thursday;
+import java.util.Scanner;
+
+public class Negative {
+
+	public static void main(String[] args) {
+		Scanner myObj = new Scanner(System.in);
+		
+
+	}
+
+}
